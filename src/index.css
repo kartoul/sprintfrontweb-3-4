@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@theme {
+    --color-site-inkblack: #0d1321;
+    --color-site-deepspaceblue: #1d2d44;
+    --color-site-blueslate: #3e5c76;
+    --color-site-dustydenim: #748cab;
+    --color-site-eggshell: #f0ebd8;
+}
